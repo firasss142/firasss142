@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @firasss142
-- 👀 I’m interested in Blockcahin && Crypto currencies
+- 👀 I’m interested in Blockcahin && Cryptocurrencies
 - 🌱 I’m currently learning Web3 && EAS && nest.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me firaskarchoud@yahoo.com
